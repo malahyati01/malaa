@@ -1,2 +1,3 @@
-# malaa
-my first git project
+# My First Repository
+
+**my first git project**. wish me luck
